@@ -1,0 +1,51 @@
+credentials:
+  usernames:
+    CrystalCast:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: CrystalCast
+      password: 8n4SgomxF
+      groq_api: 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
+    MicroMaster:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: MicroMaster
+      password: 6QaiiYVbB
+      groq_api: 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
+    PolymerPioneer:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: PolymerPioneer
+      password: 5kCDoWnXG
+      groq_api: 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
+    CeramicCrafter:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: CeramicCrafter
+      password: 80U3I2rdwS
+      groq_api: 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
+    AlloyEnigma:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: AlloyEnigma
+      password: 9iBAXigPV
+      groq_api: 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
+    MetaMorphosis:
+      email: fbox41500@gmail.com
+      failed_login_attempts: 0
+      logged_in: False
+      name: MetaMorphosis
+      password: EAvU69f2Z
+      groq_api: 
+cookie:
+  expiry_days: 3
+  key: some_signature_key # Must be string
+  name: some_cookie_name
+pre-authorized:
+  emails:
+  - smitathkr1@gmail.com
